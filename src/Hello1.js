@@ -16,6 +16,6 @@ var valueMap = new Map();
 
 // sort by value
 const mapSort1 = new Map([...valueMap.entries()].sort((a, b) =>   a[0] -b[0]));
-console.log(valueMap.get(55));
+console.log(mapSort1);
 
 
