@@ -1,9 +1,7 @@
 # random-JS
 
-try the files with
- 
-Step 1) cd /<Folder files name> 
+for JS code execution go to file and try with
+node <filename>.js
 
-Step 2) node <filename>.js
 
 #HappyLearning
