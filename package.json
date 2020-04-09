@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AkJoshi19/random-JS/issues"
   },
-  "homepage": "https://github.com/AkJoshi19/random-JS#readme"
+  "homepage": "https://github.com/AkJoshi19/random-JS#readme",
+  "dependencies": {
+    "short-uuid": "^3.1.1"
+  }
 }
