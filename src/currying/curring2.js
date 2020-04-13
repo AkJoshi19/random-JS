@@ -9,5 +9,5 @@ var sayHello = function(a){
     }
 }
 
-
+//
 sayHello(2)(3)(5);
